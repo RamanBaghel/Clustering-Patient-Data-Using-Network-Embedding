@@ -43,6 +43,15 @@ K-Means: Network Embedding vs Tabular Approach
 Clusters were evaluated using the Jaccard similarity index to measure similarity between patients within the same cluster. The results indicate that high similarity scores were not achieved. This suggests a potential mismatch between the clustering structure learned through network embeddings and the evaluation metric used. The findings highlight the complexity and multi-dimensional nature of healthcare data, where structural similarity captured by graph embeddings may not fully align with feature-based similarity metrics.
 
 ⸻
+## Key Modules
+
+```bash
+git clone https://github.com/RamanBaghel/Clustering-Patient-Data-Using-Network-Embedding.git
+cd Clustering-Patient-Data-Using-Network-Embedding
+pip install -r requirements.txt
+```
+
+⸻
 ## Run the Project
 
 ```bash
