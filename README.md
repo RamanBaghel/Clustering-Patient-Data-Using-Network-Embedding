@@ -58,7 +58,7 @@ pip install -r requirements.txt
 bash run.sh
 ```
 ⸻
-## Key Modules
+## Modules
 
 - `db.py` – Core experimental pipeline and clustering execution
 - `run.sh` – End-to-end execution script
