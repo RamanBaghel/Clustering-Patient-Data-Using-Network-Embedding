@@ -47,5 +47,16 @@ Clusters were evaluated using the Jaccard similarity index to measure similarity
 
 ```bash
 bash run.sh
+```
+⸻
+## Key Modules
+
+- `db.py` – Core experimental pipeline and clustering execution
+- `run.sh` – End-to-end execution script
+- `CSV.py` – Data preparation utilities
+- `logplot.py` – Visualization of clustering results
+
+
+
 
 
